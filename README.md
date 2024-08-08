@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DeepLearning, Vue,Spring**
 
-- 👨‍💻 All of my projects are available at [Update soon](Update soon)
+- 👨‍💻 All of my projects are available at **https://shilpadadhichportfolio.netlify.app/**
 
 - 💬 Ask me about **MERN stack,Algorithms,Version control,Anything...**
 
